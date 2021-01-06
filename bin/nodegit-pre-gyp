@@ -6,7 +6,7 @@
  * Set the title.
  */
 
-process.title = 'node-pre-gyp';
+process.title = 'nodegit-pre-gyp';
 
 /**
  * Module dependencies.
